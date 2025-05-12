@@ -22,8 +22,7 @@ graph TD
     G --> E[EmailService]
     A -->|Kafka: user-registered| K1[(Kafka)]
     K1 --> E[EmailService]
-    E -->|Kafka: email-verified| K2[(Kafka)]
-    K2 --> A
+
 ```
 
 ---
