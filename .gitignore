@@ -1,0 +1,41 @@
+# Bỏ qua tất cả file log
+*.log
+
+# Bỏ qua thư mục node_modules
+node_modules/
+
+# Bỏ qua thư mục tạm thời
+/tmp
+
+# Bỏ qua file IDE cấu hình
+.idea/
+
+# Debug files
+bin/
+obj/
+*.pdb
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code settings
+.vscode/
+*.code-workspace
+.vs/
+
+# Rider settings
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.obj
+*.pyc
+*.class
+*.idb
+*.ilk
+*.tlog
